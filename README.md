@@ -1,7 +1,7 @@
 # Jenkins-CICD-Pipelines
-- This will contain all Jenkins CI/CD personal pipeline projects
+- This will contain all Jenkins CI/CD personal pipeline projects.
 
-- Multiple Jenkins CI/CD Personal Practice Projects based on a study, video, or other training(s)
+- Multiple Jenkins CI/CD Personal Practice Projects based on a study, video, or other training(s).
 
 ## 1. Jenkins CI/CD Pipeline - SonarQube, Docker, Github Webhooks on AWS | Resume Project
 
